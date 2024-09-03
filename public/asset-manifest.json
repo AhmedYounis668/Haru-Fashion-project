@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddd86e17.css",
+    "main.js": "/static/js/main.5722de7d.js",
+    "static/media/ourshop.png": "/static/media/ourshop.7ffeba96fe8bb891c811.png",
+    "static/media/curly_hair_girl-1_mobile.jpg": "/static/media/curly_hair_girl-1_mobile.de684a2ea5912c0cef10.jpg",
+    "static/media/curly_hair_white-1_mobile.jpg": "/static/media/curly_hair_white-1_mobile.23583fbfd35c9f681fc8.jpg",
+    "static/media/banner_minipage1-tablet.jpg": "/static/media/banner_minipage1-tablet.6c869c8bb017f3f32eae.jpg",
+    "static/media/monigote_mobile.jpg": "/static/media/monigote_mobile.d66429e64d9737aebdf5.jpg",
+    "static/media/curly_hair_girl-1.jpg": "/static/media/curly_hair_girl-1.7b32ddf87223027c5921.jpg",
+    "static/media/bestselling4.jfif": "/static/media/bestselling4.aec22763db763286f2c4.jfif",
+    "static/media/curly_hair_white-1.jpg": "/static/media/curly_hair_white-1.8ae91d1ebd15b17f62d8.jpg",
+    "static/media/bestselling2.jfif": "/static/media/bestselling2.ec42ddac86bdaed97531.jfif",
+    "static/media/bestselling3.jfif": "/static/media/bestselling3.eb79f65aa27dc7fd5638.jfif",
+    "static/media/bestselling5.jfif": "/static/media/bestselling5.c036c5d9c53d2be9d1c8.jfif",
+    "static/media/banner_minipage3.jpg": "/static/media/banner_minipage3.59cee7be4394edea23e3.jpg",
+    "static/media/bestselling1.jfif": "/static/media/bestselling1.7fe9621bc0a1b0f0ea1d.jfif",
+    "static/media/monigote.jpg": "/static/media/monigote.0fbf4209b593bef4e572.jpg",
+    "static/media/banner_minipage2.jpg": "/static/media/banner_minipage2.586ddfdbd83a7699537f.jpg",
+    "index.html": "/index.html",
+    "main.ddd86e17.css.map": "/static/css/main.ddd86e17.css.map",
+    "main.5722de7d.js.map": "/static/js/main.5722de7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd86e17.css",
+    "static/js/main.5722de7d.js"
+  ]
+}
